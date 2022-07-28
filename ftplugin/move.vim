@@ -1,5 +1,5 @@
 " Vim filetype file
-" Language: Rust
+" Language: Move 
 " Maintainer: Richard Melkonian 
 " Latest Revision: 05 May 2021
 

@@ -1,1 +1,1 @@
-au Bufread,BufNewFil *.move setfiletype move
+au Bufread,BufNewFile *.move setfiletype move
