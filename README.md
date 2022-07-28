@@ -3,9 +3,11 @@ Syntax highlighting for the Move smart contract programming language. Open to PR
 
 ### Installation
 
-Install via `vim-plug`:
+Install via your vim plugin manager of choice.
 
-```vim
+For `vim-plug`:
+
+```.vimrc
 Plug 'rvmelkonian/move.vim'
 ```
 
