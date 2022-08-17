@@ -33,8 +33,8 @@ syn keyword   moveKeyword     box
 syn keyword   moveKeyword     continue
 syn keyword   moveKeyword     crate
 syn keyword   moveKeyword     extern nextgroup=moveExternCrate,moveObsoleteExternMod skipwhite skipempty
-syn keyword   moveKeyword     fun nextgroup=moveFuncName skipwhite skipempty
-syn keyword   moveKeyword     public nextgroup=moveFuncName skipwhite skipempty
+syn keyword   moveKeyword     fun 
+syn keyword   moveKeyword     public 
 syn keyword   moveKeyword     entry nextgroup=moveFuncName skipwhite skipempty
 syn keyword   moveKeyword     module nextgroup=moveFuncName skipwhite skipempty
 syn keyword   moveKeyword     impl let
