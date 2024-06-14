@@ -10,7 +10,7 @@ Install via your vim plugin manager of choice.
 For `vim-plug` add to your `.vimrc`:
 
 ```
-Plug 'rvmelkonian/move.vim'
+Plug '0xmovses/move.vim'
 ```
 
 Then run `:PlugInstall`.
